@@ -1,9 +1,9 @@
-body{
-    background-color: darkorange;
+body{ 
+    background-color: darkorange; 
 }
 
   ul {
-    list-style-type: none;
+    list-style-type:armenian ; 
     margin: 0;
     padding: 0;
     overflow: hidden;
