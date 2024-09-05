@@ -3,7 +3,7 @@ body{
 }
 
   ul {
-    list-style-type:armenian ; 
+    list-style-type:decimal-leading-zero ; 
     margin: 0;
     padding: 0;
     overflow: hidden;
