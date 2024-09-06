@@ -15,13 +15,13 @@ body{
   }
   
   li a {
-    display: block;
+    display: block; /*Blokje in menu waar tekst in wordt weergegeven*/
     color: white;
-    text-align: center;
-    padding: 14px 16px;
+    text-align: center; /*plek van tekst in het vierkante in het menu*/
+    padding: 14px 19px;
     text-decoration: none;
   }
   
   li a:hover {
-    background-color: #111;
+    background-color: #111; /*achtergrond kleur wanneer je muis erover heen gaat*/
   }
