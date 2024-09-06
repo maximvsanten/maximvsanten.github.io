@@ -6,7 +6,7 @@ body{
     list-style-type:none ; /*bolletjes weg*/
     margin:0%;/*ruimte om de rand van het menu heen*/
     padding: 0; /*ruimte tussen het begin van de balk en het eerste stukje tekst*/ 
-    overflow:hidden; 
+    overflow:hidden; /*verwijnt uit het scherm wanneer menu teveel opties heeft*/
     background-color: #333;
   }
   
@@ -19,7 +19,7 @@ body{
     color: white;
     text-align: center; /*plek van tekst in het vierkante in het menu*/
     padding: 18px 16px; /*de groote van het blokje met de tekst erin*/
-    text-decoration: none;
+    text-decoration:none; 
   }
   
   li a:hover {
