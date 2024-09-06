@@ -4,7 +4,7 @@ body{
 
   ul {
     list-style-type:none ; /*bolletjes weg*/
-    margin:10%;/*ruimte om de rand van het menu heen*/
+    margin:0%;/*ruimte om de rand van het menu heen*/
     padding: 0; /*ruimte tussen het begin van de balk en het eerste stukje tekst*/ 
     overflow:hidden; 
     background-color: #333;
