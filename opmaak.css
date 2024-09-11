@@ -23,7 +23,7 @@ body{
   }
   
   li a:hover {
-    background-color: white; /*achtergrond kleur wanneer je muis erover heen gaat*/
+    background-color: whitesmoke; /*achtergrond kleur wanneer je muis erover heen gaat*/
   }
 
   p {
