@@ -1,5 +1,5 @@
 body{ 
-   background-color: white; 
+   background-color: rgb(51, 211, 184); 
 }
 
   ul {
@@ -16,14 +16,14 @@ body{
   
   li a {
     display: block; /*Blokje in menu waar tekst in wordt weergegeven*/
-    color: white;
+    color: rgb(51, 211, 184);
     text-align: center; /*plek van tekst in het vierkante in het menu*/
     padding: 18px 16px; /*de grootte van het blokje met de tekst erin*/
     text-decoration:none; 
   }
   
   li a:hover {
-    background-color: #111; /*achtergrond kleur wanneer je muis erover heen gaat*/
+    background-color: white; /*achtergrond kleur wanneer je muis erover heen gaat*/
   }
 
   p {
