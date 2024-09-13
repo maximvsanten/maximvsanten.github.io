@@ -1,7 +1,7 @@
 body{ 
-  background-image: url(plaatje\ 3.jpg)
-}
-body{
+  border: 2px solid black;
+  padding: 25px;
+  background: url(plaatje\ 3.jpg)
   background-repeat: no-repeat;
   background-size: auto;
 }
