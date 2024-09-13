@@ -1,5 +1,5 @@
 body{ 
-  background-image: image(plaatje 3.jpg);
+  background-image: url(plaatje\ 3.jpg)
    background-color: rgb(51, 211, 184); 
 }
 
