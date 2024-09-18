@@ -30,6 +30,12 @@ body{
     background-color: whitesmoke; /*achtergrond kleur wanneer je muis erover heen gaat*/
   }
 
+  h1{
+    border-style: double;
+    color: white;
+    text-align: center;
+  }
+
   p {
     width: 50%;
     color: white;
