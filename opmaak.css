@@ -56,20 +56,20 @@ body{
   }
   
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: #5c5b5b; /*welke kleur dorpdown wordt als je met cursor erover heen gaat*/
+    background-color: whitesmoke; /*welke kleur dorpdown wordt als je met cursor erover heen gaat*/
   }
   
   .dropdown-content { /* hoe het menu van de dropdown eruit ziet*/
     display: none;
     position: absolute;
-    background-color: #5f6366; 
+    background-color: white; 
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /*schaduw*/
   }
   
   .dropdown-content a {
     float: none;
-    color: white;
+    color:rgb(51, 211, 184);
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -77,7 +77,7 @@ body{
   }
   
   .dropdown-content a:hover {
-    background-color: #5c5b5b; /*kleur achtergrond dropdown menu als je met cursor overheen gaat*/
+    background-color: whitesmoke; /*kleur achtergrond dropdown menu als je met cursor overheen gaat*/
   }
   
   .dropdown:hover .dropdown-content {
