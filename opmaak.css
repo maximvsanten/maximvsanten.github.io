@@ -46,5 +46,11 @@ body{
   head{
     color: white;
   }
+  .footer {
+    background-color:white;
+    padding: 3px;
+    color: rgb(51, 211, 184)  ;
+    text-align: center;
+ }
 
   
