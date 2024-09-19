@@ -31,7 +31,7 @@ body{
   }
 
   h1{
-    border-style: double;
+    border-style:ridge;
     color: white;
     text-align: center;
   }
