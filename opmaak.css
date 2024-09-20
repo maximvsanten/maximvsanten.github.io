@@ -48,6 +48,11 @@ body{
     width: 70%;
     margin:auto;
   }
+#tekstleft{
+  color: white;
+  text-align: left;
+}
+)
 
   head{
     color: white;
