@@ -61,6 +61,8 @@ body{
     color: rgb(51, 211, 184)  ;
     text-align: center;
     margin:auto;
+    position: fixed;
+    bottom: 0%;
  }
 
   
