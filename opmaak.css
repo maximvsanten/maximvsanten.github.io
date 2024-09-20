@@ -50,6 +50,7 @@ body{
   }
 #tekstleft{
   color: white;
+  float: left;
 }
 
   head{
