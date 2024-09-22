@@ -57,10 +57,10 @@ body{
   }
   .footer {
     background-color:white;
-    padding: 50px;
+    padding: 20px;
     color: rgb(51, 211, 184)  ;
     text-align: center;
-    margin:auto;
+    margin:0%;
     position: fixed;
     bottom: 0px;
  }
