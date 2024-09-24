@@ -58,12 +58,12 @@ body{
   }
   .footer {
     background-color:white;
-    padding: 20px;
     color: rgb(51, 211, 184)  ;
     text-align: center;
-    margin:0%;
-    position: fixed;
-    bottom: 0px;
+    font-size: 20px
+    padding: 10px
+ 
+    
  }
  
  img {
