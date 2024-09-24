@@ -70,5 +70,5 @@ body{
   position: relative;
   width: 600px;
   height: 200px;
-  left:0%;
+  right: auto;
  }
