@@ -59,7 +59,7 @@ body{
 
   .footer {
     background-color:white;
-    position: absolute;
+    position: sticky;
     color: rgb(51, 211, 184)  ;
     margin: 1%;
     padding: 1%;
