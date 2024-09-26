@@ -1,10 +1,12 @@
 body{ 
   background: url(../afbeeldingen/achtergrond.jpg) /*achtergrond van de website*/
+}
+body{
   background-repeat: no-repeat;
   background-size:cover;
 }
 
-  ul {
+  ul { /*dit is de opmaak voor het menu*/
     list-style-type:none ; /*bolletjes weg*/
     margin:0%;/*ruimte om de rand van het menu heen*/
     padding: 0; /*ruimte tussen het begin van de balk en het eerste stukje tekst*/ 
