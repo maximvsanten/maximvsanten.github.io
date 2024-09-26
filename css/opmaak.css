@@ -1,7 +1,5 @@
 body{ 
-  background: url(../afbeeldingen/achtergrond.jpg)
-}
-body{
+  background: url(../afbeeldingen/achtergrond.jpg) /*achtergrond van de website*/
   background-repeat: no-repeat;
   background-size:cover;
 }
@@ -48,7 +46,7 @@ body{
     width: 70%;
     margin:auto;
   }
-  
+
   head{
     color: white;
   }
