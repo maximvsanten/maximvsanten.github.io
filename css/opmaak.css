@@ -57,13 +57,13 @@ body{
   .footer { /*opmaak van de footer*/
     background-color:white;
     color: rgb(51, 211, 184)  ;
-    margin: 1%;
-    padding: 1%;
+    margin: 1%; /*ruimte buiten de randen*/
+    padding: 1%; /*ruimte binnen de randen*/
     text-align: center;
     font-size: 20px /*de grootte van de tekst*/
  }
 
   img { /*opmaak van alle afbeeldingen*/
-  position: relative;
+  position: relative; /*positie van de afbeelding op de website*/
   left: 30%; /*percentage dat de afbeelding van de linkerkant af staat*/
  }
