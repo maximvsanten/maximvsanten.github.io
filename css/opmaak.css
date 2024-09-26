@@ -50,10 +50,6 @@ body{
     margin:auto; /*tekst wordt gecentreerd in het midden*/
   }
 
-  head{
-    color: rgb(207, 104, 104);
-  }
-
   .footer { /*opmaak van de footer*/
     background-color:white;
     color: rgb(51, 211, 184)  ;
