@@ -58,12 +58,12 @@ body{
     background-color:white;
     color: rgb(51, 211, 184)  ;
     margin: 1%;
-    padding: 1%;
+    padding: 0%;
     text-align: center;
-    font-size: 30px /*grootte van de tekst*/
+    font-size: 20px /*de grootte van de tekst*/
  }
 
-  img {
+  img { /*opmaak van alle afbeeldingen*/
   position: relative;
-  left: 30%;
+  left: 30%; /*percentage dat de afbeelding van de linkerkant af staat*/
  }
