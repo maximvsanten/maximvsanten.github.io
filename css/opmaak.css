@@ -1,9 +1,10 @@
 body{ 
   background: url(../afbeeldingen/achtergrond.jpg) /*achtergrond van de website*/
 }
+
 body{
-  background-repeat: no-repeat;
-  background-size:cover;
+  background-repeat: no-repeat; /*plaatje is maar 1 keer op de hele pagina ipv herhaling*/
+  background-size:cover; /*de hele achtergrond wordt bedekt door het plaatje*/
 }
 
   ul { /*dit is de opmaak voor het menu*/
@@ -31,31 +32,30 @@ body{
   }
 
   h1{
-    border-style:ridge;
+    border-style:ridge; /*de randen om de tekst heen*/
     color: white;
-    text-align: center;
+    text-align: center; /*tekst in het midden*/
   }
 
   h2{
-    border-style: double;
+    border-style: double; /*de randen om de tekst heen*/
     color: white;
-    text-align: center;
+    text-align: center; /*tekst in het midden*/
   }
 
-  p {
+  p { /*dit is de opmaakt voor alle informatie op de site*/
     color: white;
     text-align: center;
-    width: 70%;
-    margin:auto;
+    width: 70%; /*de breedte van de tekst op de website*/
+    margin:auto; /*tekst wordt gecentreerd in het midden*/
   }
 
   head{
     color: white;
   }
 
-  .footer {
+  .footer { /*opmaak van de footer*/
     background-color:white;
-    position: sticky;
     color: rgb(51, 211, 184)  ;
     margin: 1%;
     padding: 1%;
